@@ -4,4 +4,4 @@
 
 #### By Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Yuwen Chen, and Maciej A. Mazurowski
 
-This is the official repository for our paper: [Segment Anything Model for Medical Image Analysis: an Experimental Study](https://https://arxiv.org/abs/2408.00756), where we evaluated Meta AI's Segment Anything Model 2 (SAM2) on many medical imaging datasets. The code will be ready momentarily.
+This is the official repository for our paper: [Segment anything model 2: an application to 2D and 3D medical images](https://https://arxiv.org/abs/2408.00756), where we evaluated Meta AI's Segment Anything Model 2 (SAM2) on many medical imaging datasets. The code will be ready momentarily.
