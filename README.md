@@ -30,11 +30,11 @@ python3 eval_sam2_3d.py --dataset DATASET_PATH --num_class NUM_OF_CLASS (--bidir
 ```
 
 By default, it will run with fmode=2 (selecting the middle slice), pmode=1 (1 point at the center of the **largest** component). 
-More choices are included in Figure 2, [![arXiv Paper](https://arxiv.org/abs/2408.00756). 
+More choices are included in Figure 2, [![arXiv Paper](https://img.shields.io/badge/arXiv-2304.10517-orange.svg?style=flat)](https://arxiv.org/abs/2408.00756).
 
 ## Obtaining datasets from our paper
 
-Although all the evaluations were conducted on publicly available datasets, we do not plan to share them directly since many of them require additional agreement before using. We kindly ask you to follow the official website for each dataset. 
+Although all the evaluations were conducted on publicly available datasets, we do not plan to share them directly since many of them require additional agreement before use. We kindly ask you to follow the official website for each dataset. 
 
 ## Adding custom datasets
 To evaluate your own dataset, you need to format the dataset as: 
